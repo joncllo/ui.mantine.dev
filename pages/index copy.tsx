@@ -1,6 +1,8 @@
+/*
+
 import { GetStaticProps } from 'next';
 import { countComponentsByCategory, getAllComponents } from '../data/components';
-import { HomeTest } from '../components/HomeTest/HomeTest';
+import { HomePage } from '../components/HomePage/HomePage';
 
 export default HomeTest;
 
@@ -10,3 +12,4 @@ export const getStaticProps: GetStaticProps = () => ({
     allComponents: getAllComponents(),
   },
 });
+*/

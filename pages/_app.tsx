@@ -23,8 +23,11 @@ async function loadShiki() {
 }
 
 export default function App({ Component, pageProps }: any) {
+
   return (
-    <>
+    <> 
+
+
       <Head>
         <title>Mantine UI</title>
         <meta itemProp="name" content="Mantine UI" key="item-title" />
